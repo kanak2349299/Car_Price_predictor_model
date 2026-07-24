@@ -169,7 +169,7 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 ---
 
 ## 📈 Feature Importance
-[Feature Importance](https://github.com/kanak2349299/Car_Price_predictor_model/blob/main/%F0%9F%93%82%20images/%F0%9F%93%88Feature_Importance.png)
+![Feature Importance](https://github.com/kanak2349299/Car_Price_predictor_model/blob/main/images/Feature_Importance.png)
 
 ---
 
