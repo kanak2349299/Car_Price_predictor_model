@@ -164,7 +164,7 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 # **🗺️ Project Visualizations** 
 
 ## 🔥 Correlation Heatmap
-[Correlation Heatmap](images/Correlation_Heatmap.png)
+![Correlation Heatmap](images/Correlation_Heatmap.png)
 
 ---
 
@@ -174,7 +174,7 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 ---
 
 ## 🎯 Actual vs Predicted
-![Actual Vs Predicted](📂 images/🎯Actual _Vs_ Predicted.png)
+![Actual Vs Predicted](https://github.com/kanak2349299/Car_Price_predictor_model/blob/8ed7e95b1b14c0ed90795b1fa7e8c1432a261b7e/%F0%9F%93%82%20images/%F0%9F%8E%AFActual%20_Vs_%20Predicted.png)
 
 ---
 
@@ -189,7 +189,7 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 ---
 
 ## 📊 Histogram
-[Histogram](https://github.com/kanak2349299/Car_Price_predictor_model/blob/main/%F0%9F%93%82%20images/%F0%9F%94%A2Distribution_%20of_%20Numerical_%20Features.png)
+![Histogram](https://github.com/kanak2349299/Car_Price_predictor_model/blob/main/%F0%9F%93%82%20images/%F0%9F%94%A2Distribution_%20of_%20Numerical_%20Features.png)
 
 ---
 
