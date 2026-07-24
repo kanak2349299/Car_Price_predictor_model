@@ -174,7 +174,7 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 ---
 
 ## 🎯 Actual vs Predicted
-<img width="1828" height="1233" alt="image" src="https://github.com/user-attachments/assets/d9ed8a7c-b463-42a1-a911-d82223cda38a" />
+<img width="1828" height="1233" alt="Actual Vs Predicted" src="https://github.com/user-attachments/assets/998960e0-ff60-4be0-a4d7-3569d191d07a" />
 
 
 ---
