@@ -188,7 +188,7 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 ---
 
 ## 📊 Histogram
-![Histogram](images/Distribution_of_Numerical_Features.png)
+![Histogram]([images/Distribution_of_Numerical_Features.png](https://github.com/kanak2349299/Car_Price_predictor_model/blob/main/%F0%9F%93%82%20images/%F0%9F%94%A2Distribution_%20of_%20Numerical_%20Features.png))
 
 ---
 
