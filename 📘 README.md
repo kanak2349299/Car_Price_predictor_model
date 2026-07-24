@@ -149,10 +149,14 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 ├── 📘 README.md
 ├── 🚫 .gitignore
 └── 📂 images/
-    ├── 📊 correlation_heatmap.png
-    ├── 📈 feature_importance.png
-    ├── 📉 actual_vs_predicted.png
-    └── 📊 residual_plot.png
+    ├── 🗺️ Correlation_Heatmap.png
+    ├── 📈 Feature_Importance.png
+    ├── 🎯 Actual_Vs_Predicted.png
+    └── 📉 Residual_Plot.png
+    ├── 📊 Box_Plot.png
+    └── 🔢 Distribution_of_Numerical_Features.png
+```
+    
 ```
 
 ---
