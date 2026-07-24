@@ -160,7 +160,7 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 # **🗺️ Project Visualizations** 
 
 ## 🔥 Correlation Heatmap
-![Correlation Heatmap](c:\Users\rajni\OneDrive\Pictures\Screenshots\Screenshot 2026-07-24 211056.png)
+![Correlation Heatmap](![alt text](image-3.png))
 
 ---
 
@@ -175,17 +175,17 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 ---
 
 ## 📉 Residual Plot
-![Residual Plot](images/Residual_Plot.png)
+![Residual Plot](![alt text](image-2.png))
 
 ---
 
 ## 📦 Box Plot
-![Box Plot](images/Box_Plot.png)
+![Box Plot](![alt text](image-1.png))
 
 ---
 
 ## 📊 Histogram
-![Histogram](images/Distribution_of_Numerical_Features.png)
+![Histogram](![alt text](image-4.png))
 
 ---
 
