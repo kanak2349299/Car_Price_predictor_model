@@ -161,37 +161,37 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 
 ## 🔥 Correlation Heatmap
 
-![Correlation Heatmap](![alt text](image-3.png))
+![Correlation Heatmap](📂 images/Correlation_Heatmap.png)
 
 ---
 
 ## 📈 Feature Importance
 
-![Feature Importance](images/Feature_Importance.png)
+![Feature Importance](📂 images/Feature_Importance.png)
 
 ---
 
 ## 🎯 Actual vs Predicted
 
-![Actual Vs Predicted](images/Actual_Vs_Predicted.png)
+![alt text](<📂 images/Actual_Vs_Predicted.png>)
 
 ---
 
 ## 📉 Residual Plot
 
-![Residual Plot](![alt text](image-2.png))
+![Residual Plot](📂 images/Residual_plot.png)
 
 ---
 
 ## 📦 Box Plot
 
-![Box Plot](![alt text](image-1.png))
+![Box Plot](📂 images/Box_Plot.png)
 
 ---
 
 ## 📊 Histogram
 
-![Histogram](![alt text](image-4.png))
+![Histogram](📂 images/Histogram.png)
 
 ---
 
