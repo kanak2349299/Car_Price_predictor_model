@@ -164,35 +164,33 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 # **🗺️ Project Visualizations** 
 
 ## 🔥 Correlation Heatmap
-![Correlation Heatmap](images/Correlation_Heatmap.png)
+<img width="1172" height="892" alt="Screenshot 2026-07-24 211056" src="https://github.com/user-attachments/assets/c75f95ca-82a0-4e42-bbb6-f5a322a8bc97" />
 
 ---
 
 ## 📈 Feature Importance
-<img width="2112" height="1361" alt="image" src="https://github.com/user-attachments/assets/321abf34-5945-4e8a-b87c-d7fcbcb701d2" />
+
 
 ---
 
 ## 🎯 Actual vs Predicted
-<img width="1828" height="1233" alt="Actual Vs Predicted" src="https://github.com/user-attachments/assets" />
+
 
 
 ---
 
 ## 📉 Residual Plot
-<img width="1836" height="1494" alt="image" src="https://github.com/user-attachments/assets/69e46634-48e9-4eec-9242-647b1d7473b9" />
+
 
 
 ---
 
 ## 📦 Box Plot
-<img width="2108" height="1698" alt="image" src="https://github.com/user-attachments/assets/d1ba23d4-69a8-4bba-a2f5-32d72152e6d9" />
 
 
 ---
 
 ## 📊 Histogram
-<img width="2983" height="1697" alt="image" src="https://github.com/user-attachments/assets/29562b74-8cdb-4933-ab05-3a38ca89affb" />
 
 
 ---
