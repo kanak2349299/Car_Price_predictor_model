@@ -164,38 +164,37 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 # **🗺️ Project Visualizations** 
 
 ## 🔥 Correlation Heatmap
-![Correlation Heatmap](<img width="3286" height="2508" alt="image" src="https://github.com/user-attachments/assets/94e10cf2-0485-4434-b678-e1a4db932ae7" />
-)
+<img width="3286" height="2508" alt="image" src="https://github.com/user-attachments/assets/94e10cf2-0485-4434-b678-e1a4db932ae7" />
+
 
 ---
 
 ## 📈 Feature Importance
-![Feature Importance](<img width="2112" height="1361" alt="image" src="https://github.com/user-attachments/assets/321abf34-5945-4e8a-b87c-d7fcbcb701d2" />
-)
+<img width="2112" height="1361" alt="image" src="https://github.com/user-attachments/assets/321abf34-5945-4e8a-b87c-d7fcbcb701d2" />
 
 ---
 
 ## 🎯 Actual vs Predicted
-![Actual Vs Predicted](<img width="1828" height="1233" alt="image" src="https://github.com/user-attachments/assets/d9ed8a7c-b463-42a1-a911-d82223cda38a" />
-)
+<img width="1828" height="1233" alt="image" src="https://github.com/user-attachments/assets/d9ed8a7c-b463-42a1-a911-d82223cda38a" />
+
 
 ---
 
 ## 📉 Residual Plot
-![Residual Plot](<img width="1836" height="1494" alt="image" src="https://github.com/user-attachments/assets/69e46634-48e9-4eec-9242-647b1d7473b9" />
-)
+<img width="1836" height="1494" alt="image" src="https://github.com/user-attachments/assets/69e46634-48e9-4eec-9242-647b1d7473b9" />
+
 
 ---
 
 ## 📦 Box Plot
-![Box Plot](<img width="2108" height="1698" alt="image" src="https://github.com/user-attachments/assets/d1ba23d4-69a8-4bba-a2f5-32d72152e6d9" />
-)
+<img width="2108" height="1698" alt="image" src="https://github.com/user-attachments/assets/d1ba23d4-69a8-4bba-a2f5-32d72152e6d9" />
+
 
 ---
 
 ## 📊 Histogram
-![Histogram](<img width="2983" height="1697" alt="image" src="https://github.com/user-attachments/assets/29562b74-8cdb-4933-ab05-3a38ca89affb" />
-)
+<img width="2983" height="1697" alt="image" src="https://github.com/user-attachments/assets/29562b74-8cdb-4933-ab05-3a38ca89affb" />
+
 
 ---
 
