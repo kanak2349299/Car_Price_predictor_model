@@ -164,8 +164,7 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 # **🗺️ Project Visualizations** 
 
 ## 🔥 Correlation Heatmap
-![Uploading image.png…]()
-
+<img width="2972" height="1438" alt="image" src="https://github.com/user-attachments/assets/3f01c229-e69f-48c8-8eed-6085b193d546" />
 
 
 ---
