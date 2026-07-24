@@ -164,7 +164,7 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 # **🗺️ Project Visualizations** 
 
 ## 🔥 Correlation Heatmap
-"C:\Users\rajni\OneDrive\Pictures\Screenshots\Screenshot 2026-07-24 211056.png"
+![Correlation Heatmap](images/Correlation_Heatmap.png)
 ---
 
 ## 📈 Feature Importance
