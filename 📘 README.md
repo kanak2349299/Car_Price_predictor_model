@@ -160,37 +160,40 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 
 ## 🔥 Correlation Heatmap
 
-![Correlation Heatmap](images/🗺️Correlation Heatmap.png)
+![Correlation Heatmap](📂images/🗺️Correlation Heatmap.png)
 
 ---
 
 ## 📈 Feature Importance
 
-![Feature Importance](images/📈Feature Importance.png)
+![Feature Importance](📂images/📈Feature Importance.png)
 
 ---
 
 ## 🎯 Actual vs Predicted
 
-![Actual Vs Predicted](images/🎯Actual Vs Predicted.png)
+![Actual Vs Predicted](📂images/🎯Actual_Vs_Predicted.png)
 
 ---
 
 ## 📉 Residual Plot
 
-![Residual Plot](images/📉Residual Plot.png)
+![Residual Plot](📂images/📉Residual_Plot.png)
 
 ---
 
 ## 📦 Box Plot
 
-![Box Plot](images/📊Box Plot.png)
+![Box Plot](📂images/📊Box_Plot.png)
 
 ---
 
 ## 📊 Histogram
 
-![Histogram](images/🔢Distribution of Numerical Features.png)
+![Histogram](📂images/🔢Distribution_of_Numerical_Features.png)
+
+---
+
 # **🚀 Future Enhancements**
 
 🌐 Streamlit Web Application
