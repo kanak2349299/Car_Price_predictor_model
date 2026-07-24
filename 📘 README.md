@@ -149,14 +149,10 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 ├── 📘 README.md
 ├── 🚫 .gitignore
 └── 📂 images/
-    ├── 🗺️ Correlation_Heatmap.png
-    ├── 📈 Feature_Importance.png
-    ├── 🎯 Actual_Vs_Predicted.png
-    └── 📉 Residual_Plot.png
-    ├── 📊 Box_Plot.png
-    └── 🔢 Distribution_of_Numerical_Features.png
-```
-    
+    ├── 📊 correlation_heatmap.png
+    ├── 📈 feature_importance.png
+    ├── 📉 actual_vs_predicted.png
+    └── 📊 residual_plot.png
 ```
 
 ---
@@ -164,17 +160,18 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 # **🗺️ Project Visualizations** 
 
 ## 🔥 Correlation Heatmap
-[Correlation Heatmap](images/Correlation_Heatmap.png)
+![Correlation Heatmap](c:\Users\rajni\OneDrive\Pictures\Screenshots\Screenshot 2026-07-24 211056.png)
 
 ---
 
 ## 📈 Feature Importance
-![Feature Importance](https://github.com/kanak2349299/Car_Price_predictor_model/blob/main/images/Feature_Importance.png)
+![Feature Importance](images/Feature_Importance.png)
 
 ---
 
 ## 🎯 Actual vs Predicted
-[Actual Vs Predicted](https://github.com/kanak2349299/Car_Price_predictor_model/blob/main/%F0%9F%93%82%20images/%F0%9F%8E%AFActual%20_Vs_%20Predicted.png)
+![Actual Vs Predicted](images/Actual_Vs_Predicted.png)
+
 ---
 
 ## 📉 Residual Plot
@@ -188,7 +185,7 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 ---
 
 ## 📊 Histogram
-[Histogram](https://github.com/kanak2349299/Car_Price_predictor_model/blob/main/%F0%9F%93%82%20images/%F0%9F%94%A2Distribution_%20of_%20Numerical_%20Features.png)
+![Histogram](images/Distribution_of_Numerical_Features.png)
 
 ---
 
