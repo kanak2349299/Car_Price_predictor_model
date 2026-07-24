@@ -161,13 +161,13 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 
 ## 🔥 Correlation Heatmap
 
-![Correlation Heatmap](📂 images/Correlation_Heatmap.png)
+![Correlation Heatmap](<📂 images/Correlation_Heatmap.png>)
 
 ---
 
 ## 📈 Feature Importance
 
-![Feature Importance](📂 images/Feature_Importance.png)
+![Feature Importance](<📂 images/Feature_Importance.png>)
 
 ---
 
@@ -179,19 +179,19 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 
 ## 📉 Residual Plot
 
-![Residual Plot](📂 images/Residual_plot.png)
+![Residual Plot](<📂 images/Residual_plot.png>)
 
 ---
 
 ## 📦 Box Plot
 
-![Box Plot](📂 images/Box_Plot.png)
+![Box Plot](<📂 images/Box_Plot.png>)
 
 ---
 
 ## 📊 Histogram
 
-![Histogram](📂 images/Histogram.png)
+![Histogram](<📂 images/Histogram.png>)
 
 ---
 
