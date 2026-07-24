@@ -160,57 +160,35 @@ The project includes complete **Data Preprocessing**, **Exploratory Data Analysi
 # **🗺️ Project Visualizations** 
 
 ## 🔥 Correlation Heatmap
-
-![Correlation Heatmap](📂images/🗺️Correlation Heatmap.png)
+![Correlation Heatmap](📂images/🗺️Correlation_Heatmap.png)
 
 ---
 
 ## 📈 Feature Importance
-
-![Feature Importance](📂images/📈Feature Importance.png)
+![Feature Importance](📂images/📈Feature_Importance.png)
 
 ---
 
 ## 🎯 Actual vs Predicted
-
-<<<<<<< HEAD
 ![Actual Vs Predicted](📂images/🎯Actual_Vs_Predicted.png)
-=======
-![Actual Vs Predicted](📂images/🎯Actual Vs Predicted.png)
->>>>>>> 59e566abc353791e00263a4551420465091570ae
 
 ---
 
 ## 📉 Residual Plot
-
-<<<<<<< HEAD
 ![Residual Plot](📂images/📉Residual_Plot.png)
-=======
-![Residual Plot](📂images/📉Residual Plot.png)
->>>>>>> 59e566abc353791e00263a4551420465091570ae
 
 ---
 
 ## 📦 Box Plot
-
-<<<<<<< HEAD
 ![Box Plot](📂images/📊Box_Plot.png)
-=======
-![Box Plot](📂images/📊Box Plot.png)
->>>>>>> 59e566abc353791e00263a4551420465091570ae
 
 ---
 
 ## 📊 Histogram
-
-<<<<<<< HEAD
 ![Histogram](📂images/🔢Distribution_of_Numerical_Features.png)
 
 ---
 
-=======
-![Histogram](📂images/🔢Distribution of Numerical Features.png)
->>>>>>> 59e566abc353791e00263a4551420465091570ae
 # **🚀 Future Enhancements**
 
 🌐 Streamlit Web Application
